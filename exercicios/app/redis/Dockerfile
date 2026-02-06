@@ -1,5 +1,5 @@
 	# Setar a imagem base como Ubuntu
-FROM redis
+FROM redis:8.4.0-bookworm
 
 	# Autor/Mantenedor
 MAINTAINER Jonathan Baraldi
